@@ -157,9 +157,7 @@
   z-index: 4;
 }
 @media screen and (max-width:706px) and (min-width:600px) {
-  .gif-style{
-    border: 7vh solid black !important;
-  }
+
   .footer img {
     width: 116%;
     margin-top: -68px !important;
@@ -180,9 +178,6 @@
   }
 }
 @media screen and (min-width:707px) and (max-width:1100px) {
-  .gif-style{
-    border: 8vh solid black !important;
-  }
   .footer img {
     width: 116%;
     margin-top: -124px !important;
@@ -203,9 +198,7 @@
 }
 
 @media screen and (max-width:600px) {
-  .gif-style{
-    border: 6vh solid black !important;
-  }
+
   .footer img {
     width: 116%;
     margin-top: -43px !important;
@@ -494,7 +487,7 @@
 
 .gif-style{
   max-height: 100vh;
-  border: 11vh solid black;
+  border: 6vw solid black;
   width: 100vw;
   margin-top: -5%;
   position: relative;
