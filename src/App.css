@@ -459,7 +459,7 @@
   width: 90%;
 }
 @font-face {
-  font-family: mark;
+  font-family: DisposableDroidBB;
   src: url("/DisposableDroidBB.ttf");
 }
 .mark-end {
@@ -470,7 +470,7 @@
   height: 0;
 }
 .mark-end small {
-  font-family: mark;
+  font-family: DisposableDroidBB;
   color: white;
   font-size: 21px;
   font-style: normal;

@@ -398,6 +398,7 @@ class App extends Component {
                   </div>
                 </div>
               </div>
+              <p className="custom-font">4</p>
               {/* <img
                 alt="Can't find file!"
                 src="/assets/BlackGradient-2.png"
